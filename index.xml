@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SMSsync</title>
-    <link>http://smsssync.ushahidi.com/</link>
+    <link>http://smssync.ushahidi.com/</link>
     <description>Recent content on SMSsync</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2015 16:42:24 +0900</lastBuildDate>
-    <atom:link href="http://smsssync.ushahidi.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://smssync.ushahidi.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Screenshots</title>
-      <link>http://smsssync.ushahidi.com/screenshots/</link>
+      <link>http://smssync.ushahidi.com/screenshots/</link>
       <pubDate>Fri, 01 May 2015 16:42:24 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/screenshots/</guid>
+      <guid>http://smssync.ushahidi.com/screenshots/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/auto_reply.png&#34; title=&#34;Auto Reply&#34;&gt;&lt;img alt=&#34;Auto Reply&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/auto_reply.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/auto_reply.png&#34; title=&#34;Auto Reply&#34;&gt;&lt;img alt=&#34;Auto Reply&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/auto_reply.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Auto Reply&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/sync_url.png&#34; title=&#34;Manage Sync URL&#34;&gt;&lt;img alt=&#34;Manage Sync URL&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/sync_url.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/sync_url.png&#34; title=&#34;Manage Sync URL&#34;&gt;&lt;img alt=&#34;Manage Sync URL&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/sync_url.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Manage Sync URLs&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/add_sync_url.png&#34; title=&#34;Add Sync URL&#34;&gt;&lt;img alt=&#34;Add Sync URL&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/add_sync_url.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/add_sync_url.png&#34; title=&#34;Add Sync URL&#34;&gt;&lt;img alt=&#34;Add Sync URL&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/add_sync_url.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Add Sync URL&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/sent_messages.png&#34; title=&#34;Sent Messages&#34;&gt;&lt;img alt=&#34;Sent Messages&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/sent_messages.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/sent_messages.png&#34; title=&#34;Sent Messages&#34;&gt;&lt;img alt=&#34;Sent Messages&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/sent_messages.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Sent Messages&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/pending_messages.png&#34; title=&#34;Pending Messages&#34;&gt;&lt;img alt=&#34;Pending Messages&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/pending_messages.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/pending_messages.png&#34; title=&#34;Pending Messages&#34;&gt;&lt;img alt=&#34;Pending Messages&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/pending_messages.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Pending Messages&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/settings.png&#34; title=&#34;Settings&#34;&gt;&lt;img alt=&#34;Settings&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/settings.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/settings.png&#34; title=&#34;Settings&#34;&gt;&lt;img alt=&#34;Settings&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/settings.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Settings&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/log.png&#34; title=&#34;Logs&#34;&gt;&lt;img alt=&#34;Logs&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/log.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/log.png&#34; title=&#34;Logs&#34;&gt;&lt;img alt=&#34;Logs&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/log.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Logs&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/whitelist.png&#34; title=&#34;Whitelist&#34;&gt;&lt;img alt=&#34;Whitelist&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/whitelist.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/whitelist.png&#34; title=&#34;Whitelist&#34;&gt;&lt;img alt=&#34;Whitelist&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/whitelist.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Whitelist&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/blacklist.png&#34; title=&#34;Blacklist&#34;&gt;&lt;img alt=&#34;Blacklist&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/blacklist.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/blacklist.png&#34; title=&#34;Blacklist&#34;&gt;&lt;img alt=&#34;Blacklist&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/blacklist.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Empty Whitelist&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/multi-select.png&#34; title=&#34;Multi select items&#34;&gt;&lt;img alt=&#34;Multi select items&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/multi-select.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/multi-select.png&#34; title=&#34;Multi select items&#34;&gt;&lt;img alt=&#34;Multi select items&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/multi-select.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Notification&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/sync-scheme.png&#34; title=&#34;Configure a sync scheme&#34;&gt;&lt;img alt=&#34;configure a sync scheme&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/sync-scheme.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/sync-scheme.png&#34; title=&#34;Configure a sync scheme&#34;&gt;&lt;img alt=&#34;configure a sync scheme&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/sync-scheme.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Configure a Sync URL&lt;/h5&gt;
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-sm-6 col-md-2&#34;&gt;
-        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smsssync.ushahidi.com/images/screenshots/add_sync_url_http_auth.png&#34; title=&#34;Add Sync URL with HTTP basic authentication&lt;&#34;&gt;&lt;img alt=&#34;configure a sync scheme&#34; src=&#34;http://smsssync.ushahidi.com/images/screenshots/add_sync_url_http_auth.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
+        &lt;a class=&#34;thumbnail&#34; rel=&#34;screenshots_group&#34; href=&#34;http://smssync.ushahidi.com/images/screenshots/add_sync_url_http_auth.png&#34; title=&#34;Add Sync URL with HTTP basic authentication&lt;&#34;&gt;&lt;img alt=&#34;configure a sync scheme&#34; src=&#34;http://smssync.ushahidi.com/images/screenshots/add_sync_url_http_auth.png&#34; width=&#34;200&#34; height=&#34;351&#34; /&gt;&lt;/a&gt;
         &lt;div class=&#34;caption&#34;&gt;
             &lt;h5&gt;Making SMSsync the default SMS app&lt;/h5&gt;
         &lt;/div&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Features</title>
-      <link>http://smsssync.ushahidi.com/features/</link>
+      <link>http://smssync.ushahidi.com/features/</link>
       <pubDate>Fri, 01 May 2015 16:38:16 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/features/</guid>
+      <guid>http://smssync.ushahidi.com/features/</guid>
       <description>
 
 &lt;ul&gt;
@@ -131,10 +131,10 @@
     
     <item>
       <title>Developers</title>
-      <link>http://smsssync.ushahidi.com/developers/</link>
+      <link>http://smssync.ushahidi.com/developers/</link>
       <pubDate>Fri, 01 May 2015 16:26:41 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/developers/</guid>
+      <guid>http://smssync.ushahidi.com/developers/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;col-lg-6&#34;&gt;
         &lt;h2&gt;Instructions&lt;/h2&gt;
@@ -805,10 +805,10 @@ else
     
     <item>
       <title>Configure</title>
-      <link>http://smsssync.ushahidi.com/configure/</link>
+      <link>http://smssync.ushahidi.com/configure/</link>
       <pubDate>Fri, 01 May 2015 14:01:52 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/configure/</guid>
+      <guid>http://smssync.ushahidi.com/configure/</guid>
       <description>&lt;div class=&#34;container bs-docs-container&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-3&#34;&gt;
@@ -1050,10 +1050,10 @@ else
     
     <item>
       <title>Contributors</title>
-      <link>http://smsssync.ushahidi.com/contributors/</link>
+      <link>http://smssync.ushahidi.com/contributors/</link>
       <pubDate>Fri, 01 May 2015 13:06:28 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/contributors/</guid>
+      <guid>http://smssync.ushahidi.com/contributors/</guid>
       <description>&lt;div id=&#34;map&#34; class=&#34;thumbnail leaflet-container leaflet-fade-anim&#34; tabindex=&#34;0&#34; style=&#34;height:390px;&#34;&gt;&lt;/div&gt;
 &lt;div class=&#34;table-responsive&#34; id=&#34;contrib&#34;&gt;&lt;/div&gt;
 </description>
@@ -1061,10 +1061,10 @@ else
     
     <item>
       <title>Downloads</title>
-      <link>http://smsssync.ushahidi.com/download/</link>
+      <link>http://smssync.ushahidi.com/download/</link>
       <pubDate>Fri, 01 May 2015 12:31:51 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/download/</guid>
+      <guid>http://smssync.ushahidi.com/download/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;col-lg-4&#34;&gt;
         &lt;h2&gt;QR Code&lt;/h2&gt;
@@ -1101,7 +1101,7 @@ else
         &lt;div class=&#34;thumbnails&#34;&gt;
             &lt;a href=&#34;https://f-droid.org/repository/browse/?fdfilter=smssync&amp;fdid=org.addhen.smssync&#34;&gt;&lt;img
                     class=&#34;thumbnail&#34; title=&#34;SMSsync on F-Droid market&#34;
-                    src=&#34;http://smsssync.ushahidi.com/images/f-droid.png&#34;
+                    src=&#34;http://smssync.ushahidi.com/images/f-droid.png&#34;
                     alt=&#34;F-Droid&#34; width=&#34;200&#34; height=&#34;67&#34;/&gt;&lt;/a&gt;
         &lt;/div&gt;
     &lt;/div&gt;  
@@ -1111,10 +1111,10 @@ else
     
     <item>
       <title>Releases</title>
-      <link>http://smsssync.ushahidi.com/releases/</link>
+      <link>http://smssync.ushahidi.com/releases/</link>
       <pubDate>Fri, 01 May 2015 10:07:05 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/releases/</guid>
+      <guid>http://smssync.ushahidi.com/releases/</guid>
       <description></description>
     </item>
     

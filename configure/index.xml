@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Configures on SMSsync</title>
-    <link>http://smsssync.ushahidi.com/configure/</link>
+    <link>http://smssync.ushahidi.com/configure/</link>
     <description>Recent content in Configures on SMSsync</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2015 14:01:52 +0900</lastBuildDate>
-    <atom:link href="http://smsssync.ushahidi.com/configure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://smssync.ushahidi.com/configure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Configure</title>
-      <link>http://smsssync.ushahidi.com/configure/</link>
+      <link>http://smssync.ushahidi.com/configure/</link>
       <pubDate>Fri, 01 May 2015 14:01:52 +0900</pubDate>
       
-      <guid>http://smsssync.ushahidi.com/configure/</guid>
+      <guid>http://smssync.ushahidi.com/configure/</guid>
       <description>&lt;div class=&#34;container bs-docs-container&#34;&gt;
     &lt;div class=&#34;row&#34;&gt;
         &lt;div class=&#34;col-md-3&#34;&gt;
